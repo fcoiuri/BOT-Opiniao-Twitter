@@ -67,7 +67,7 @@ cliente.tweetar = function(msg){
 })
 }
 
-
+cliente.tweetar("Iniciando.")
 
 //cliente.Followback()
 setInterval(pesquisa, 480.000)

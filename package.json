@@ -4,6 +4,7 @@
   "description": "Bot para corrigir a escrita da palavra Opinião",
   "main": "index.js",
   "scripts": {
+    "start": "index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Francisco Mendes",
