@@ -1,4 +1,4 @@
-# [BOT-Opiniao-Twitter](https://twitter.com/Bot_Opiniao)
+# [BOT-Opiniao-Twitter](https://twitter.com/BotOpiniao)
 ## Conserta a escrita da palavra Opinião no Twitter.  
 ## Caso alguém escreva a palavra opinião de forma errada ele a corrige, mudando na publicação somente a palavra.  
 ## Feito usando JavaScript.  
